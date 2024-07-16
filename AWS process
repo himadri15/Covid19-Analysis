@@ -1,0 +1,14 @@
+How to get the data?
+
+Simply download and upload to S3 bucket
+Using AWS CLI copy command: aws s3 cp s3://mybucket/test.txt s3://mybucket/test2.txt
+STEPS:
+
+Running Crawlers on the data uploaded in S3
+Analysing data using AWS Athena query editor
+Building the ER-Data Model
+ETL jobs in python
+Saving result in S3
+Building the Dimensional Model
+Building Dimensional schema in Redshift
+Storing the dimensional model into Redshift
